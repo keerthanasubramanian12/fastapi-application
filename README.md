@@ -1,0 +1,2 @@
+# fastapi-application
+FastAPI assignment
